@@ -25,7 +25,11 @@ https://www.nixcraft.com/t/mysql-failed-error-set-password-has-no-significance-f
 3. sudo killall -9 mysql_secure_installation
 4. Start the mysql client:
 5. sudo mysql
-	Run the following SQL query:
-		ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'SetRootPasswordHere';
-		exit
+6. Run the following SQL query:
+7. ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'SetRootPasswordHere';
+8. exit
+9. Then run the following command to secure it:
+10. sudo mysql_secure_installation
+11. When promoted for the password enter the SetRootPasswordHere (or whatever you set when you ran the above SQL query)
 
+------------
