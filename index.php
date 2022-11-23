@@ -11,7 +11,7 @@
   <div class="container">
     <form action="includes/home.php" method="post">
         <div class="from-group text-center">
-            <input type="submit" class="btn btn-primary mt-2" value="Let's Do it!">
+            <input type="submit" class="btn btn-primary mt-2" value="Let's check it!">
         </div>
     </form>
   </div>

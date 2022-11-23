@@ -1,3 +1,3 @@
-<footer class="blockquote-footer fixed-bottom">Get more amazing projects in <cite title="Source Title"><a href="https://codewithbish.com/free-projects-download/" target="_blank">codewithbish.com</a></cite></footer>
+<footer class="blockquote-footer fixed-bottom">Visit our L.M.S. site for more courses <cite title="Source Title"><a href="https://lms.techtrivandrum.com/" target="_blank">Tech Trivandrum</a></cite></footer>
 </body>
 </html>
